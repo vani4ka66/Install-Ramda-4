@@ -17,7 +17,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
   for(var i in articles){
     // console.log(articles[i])
-    articles[i].classList.add(getClass(arrayToPluck)[i])
+//     articles[i].classList.add(getClass(arrayToPluck)[i])
   }
   
 });
